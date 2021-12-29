@@ -1,2 +1,2 @@
 # me
-Code for creating life story from facebook data.
+Creation of life story from facebook, strava and google data.
